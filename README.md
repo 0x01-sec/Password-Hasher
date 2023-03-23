@@ -1,7 +1,7 @@
 # Password-Hasher
 Installation
 
-    Clone the repository: 
+    Clone the repository: git clone  https://github.com/OxWeb4/Password-Hasher.git
 Navigate to the project directory: 
 
 cd password_hasher.py
