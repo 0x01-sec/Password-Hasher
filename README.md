@@ -1,4 +1,10 @@
 # Password-Hasher
+
+<p align="center">
+  <img src="https://img.icons8.com/clouds/256/fraud.png" alt="My Image">
+</p>
+
+
 Installation
 
     Clone the repository: git clone  https://github.com/OxWeb4/Password-Hasher.git
